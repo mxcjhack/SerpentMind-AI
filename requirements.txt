@@ -1,0 +1,6 @@
+pygame
+pytorch
+matplotlib
+ipython
+enum
+random
